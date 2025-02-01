@@ -25,7 +25,6 @@ const Circle = styled(motion.div)`
   background-color: #00a5ff;
   height: 100px;
   width: 100px;
-
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.06);
 `;
 
